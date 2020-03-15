@@ -1,0 +1,16 @@
+{
+  "name": "note_grpc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "client.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "grpc": "^1.24.2",
+    "uuid": "^7.0.2"
+  }
+}
